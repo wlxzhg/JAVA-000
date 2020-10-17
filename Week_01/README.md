@@ -113,3 +113,4 @@ public class MyClassloader extends ClassLoader {
 
 ### 第三题
 画一张图，展示 Xmx、Xms、Xmn、Meta、DirectMemory、Xss 这些内存参数的关系
+![内存参数的关系.png](https://raw.githubusercontent.com/wlxzhg/JAVA-000/main/Week_01/%E5%86%85%E5%AD%98%E5%8F%82%E6%95%B0%E7%9A%84%E5%85%B3%E7%B3%BB.png)
